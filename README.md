@@ -11,3 +11,12 @@
 ### Evaluation dashboard <br>
 ![App Demo (Evaluation Dashboard)](assets/UAD-Evaluation-Dashboard.gif)
 
+### Feature Memory Bank (Static Photo)
+![UAD Results Analysis](assets/UAD  Feature Memory Flow.png)
+
+### Custom CNN Autoencoder (Static Photo)
+![UAD Results Analysis](assets/UAD  Autoencoder Flow.png)
+
+### Hybrid Detector (Static Photo)
+![UAD Results Analysis](assets/UAD  Hybrid Flow.png)
+
